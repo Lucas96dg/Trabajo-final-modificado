@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(29, 29, 182) !important;
+}
+.navbar-nav:hover{
+background-color: black;
+}
+.jumbotron{
+    background-image: url(/imagenes/fotofondo.jpg);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    text-shadow: black;
+    margin-bottom: 0;
+    border-radius: 0;
+
+}
+footer{
+    background-color: black;
+    color: white;
+
+}
